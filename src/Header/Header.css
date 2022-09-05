@@ -1,0 +1,29 @@
+.Header {
+  background-color: #fff;
+  border-bottom: 1px solid #D0CFCF;
+}
+.Header-row {
+  display: flex;
+  justify-content: space-between;
+  align-content: center;
+  align-items: center;
+  flex-direction: row;
+}
+.Header-logo {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+.App-name {
+  font-weight: 400;
+  font-size: 20px;
+  color: #000;
+}
+.App-about {
+  font-family: 'Asap', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 24px;
+  color: #000;
+}

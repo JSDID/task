@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Asap:wght@700&display=swap');
+.App {
+  padding: 50px;
+  margin: 0 auto;
+  width: 1210px;
+  height: 8022px;
+  background: #FFFFFF;
+}
+.App-logo {
+  height: 5vmin;
+  pointer-events: none;
+}
+.App-link {
+  color: #61dafb;
+}
+.FontFamily, .Typography {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 24px;
+  color: rgba(0, 0, 0, 0.87)
+}
+.Asap {
+  font-family: 'Asap';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+}
+
